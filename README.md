@@ -1,1 +1,1 @@
-# javascript data structure and algprithm collection
+# javascript data structure and algorithm collection
